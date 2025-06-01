@@ -6,4 +6,5 @@
 
 >你好，我是一只一只一只一只大一菜坤啊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc-clt&layout=compact)](https://github.com/yc-clt/github-readme-stats)![YC-CLT's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc-clt&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc-clt&layout=compact)](https://github.com/yc-clt/github-readme-stats)  
+![YC-CLT's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc-clt&show_icons=true&theme=tokyonight)
