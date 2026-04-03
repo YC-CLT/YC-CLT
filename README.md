@@ -3,15 +3,8 @@
 
 ## 关于我 / About me
 
-> 你好，我是一只一只一只一只大一菜坤啊
+> 你好，我是一只一只一只大二菜坤啊
 
-<div align=center>
-  
-![YC-CLT's GitHub stats](https://github-readme-stats.vercel.app/api?username=yc-clt&show_icons=true&theme=tokyonight)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc-clt&layout=compact)
-
-</div>
 <div align="center">
 <!--  skill badge 技能徽章 -->
 
