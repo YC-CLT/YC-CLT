@@ -3,7 +3,7 @@
 
 ## 关于我 / About me
 
-> 你好，我是一只一只一只大二菜坤啊
+> 你好，我是一只一只一只大三菜坤啊
 
 <div align="center">
 <!--  skill badge 技能徽章 -->
